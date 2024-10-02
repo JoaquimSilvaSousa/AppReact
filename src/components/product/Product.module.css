@@ -1,0 +1,74 @@
+.discount {
+    background-color: #DB4444;
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-size: 11px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+    width: 175px;
+    height: 150px;
+    padding: 45px;
+}
+
+.prices {
+    display: flex;
+    align-items: center;
+}
+
+.price {
+    color: #DB4444;
+    font-size: 16px;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.del {
+    font-size: 16px;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(141, 141, 141);
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 16px;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 15px;
+    margin-bottom: -5px;
+}
+
+.stars {
+    width: 140px;
+    display: flex;
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 15px;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(141, 141, 141);
+    margin-top: -20px;
+}

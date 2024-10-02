@@ -1,0 +1,43 @@
+.barraPreta {
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    color: white;
+}
+
+.a {
+    margin-left: 10px;
+    color: white;
+}
+
+.a:visited {
+    color: white;
+}
+
+.a:hover {
+    color: white;
+}
+
+.a:active {
+    color: white;
+}
+
+.select {
+    position: absolute;
+    right: 7%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    border: none;
+}
+
+.option {
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    background-color: black;
+}

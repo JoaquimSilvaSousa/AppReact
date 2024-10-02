@@ -1,0 +1,50 @@
+.footer {
+    background-color: black;
+    height: fit-content;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: start;
+}
+
+.subtitleApp {
+    margin: 0 0 -10px;
+    font-size: 13px;
+    color: lightgray;
+}
+
+.container {
+    color: white;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: start;
+}
+
+.title {
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    margin: 0;
+}
+
+.subtitle {
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    margin: 0;
+}
+
+.text {
+    font-family: "Inter", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0;
+    cursor: pointer;
+}

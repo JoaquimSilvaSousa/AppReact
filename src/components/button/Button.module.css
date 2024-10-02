@@ -1,0 +1,15 @@
+.button {
+    background: #DB4444;
+    color: white;
+    display: flex;
+    width: 235px;
+    height: 55px;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    font-family: "Inter", system-ui;
+}

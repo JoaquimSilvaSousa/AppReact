@@ -1,0 +1,17 @@
+.subtitulo {
+    color: #db4444;
+}
+
+.container {
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.ret {
+    height: 40px;
+    width: 20px;
+    background-color: #db4444;
+    border-radius: 4px;
+}

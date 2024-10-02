@@ -1,0 +1,29 @@
+.times{
+    display: flex;
+    gap: 15px;
+}
+
+.title{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.number{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.twoPoints{
+    font-family: "Times New Roman", Times, serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    margin-top: 12px;
+    color: rgb(158, 158, 158);
+}
